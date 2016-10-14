@@ -1,4 +1,5 @@
-## RSLingo RSL System Requirements Specification - MS-Excel Template (RSLingo-RSL-Excel-Template)
+RSLingo RSL System Requirements Specification - MS-Excel Template (RSLingo-RSL-Excel-Template)
+==============================================================================================
 
 Copyright
 --------------------------------------------------------------------------------------
@@ -39,7 +40,7 @@ References
 
 Licence
 --------------------------------------------------------------------------------------
-[8]	RSLingo-RSL-Excel-Template is released under the EUPL 1.1 licence.
+RSLingo-RSL-Excel-Template is released under the EUPL 1.1 licence.
 For further details please consult the LICENCE file. 
 
 [8] http://joinup.ec.europa.eu/software/page/eupl
