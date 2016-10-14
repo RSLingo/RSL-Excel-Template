@@ -20,7 +20,8 @@ This template includes the following files:
 
 Feedback
 --------------------------------------------------------------------------------------
-We would appreciate your feedback, alberto.silva@tecnico.ulisboa.pt
+Your Feedback is Highly Appreciated!
+alberto.silva@tecnico.ulisboa.pt
 
 References
 --------------------------------------------------------------------------------------
