@@ -21,7 +21,9 @@ This template includes the following files:
 Feedback
 --------------------------------------------------------------------------------------
 Your Feedback is Highly Appreciated!
+
 alberto.silva@tecnico.ulisboa.pt
+
 
 References
 --------------------------------------------------------------------------------------
@@ -42,6 +44,7 @@ References
 Licence
 --------------------------------------------------------------------------------------
 RSLingo-RSL-Excel-Template is released under the EUPL 1.1 licence.
+
 For further details please consult the LICENCE file. 
 
 [8] http://joinup.ec.europa.eu/software/page/eupl
