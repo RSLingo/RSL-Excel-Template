@@ -2,7 +2,8 @@
 
 Copyright
 --------------------------------------------------------------------------------------
-Copyright 2013 - 2016 INESC-ID, Instituto Superior Técnico, Universidade de Lisboa. All rights reserved. 
+Copyright 2013 - 2016 INESC-ID, Instituto Superior Técnico, Universidade de Lisboa. All rights reserved.
+
 This material is available for academic, research and business purposes, however, You should keep the authors and copyright notice.
 Any use of this software constitutes full acceptance of all terms of the software's license.
 
@@ -11,12 +12,13 @@ Description
 This repository publishes the “RSLingo's RSL Excel Template” that is a System Requirements Specification (SRS) template based on the multi-view architecture and inspired on the design of several former languages such as RSL-IL [1,2], XIS* [5,6] and SilabREQ [7], and that is aware of the problems and practical recommendations discussed in [4,5].
 
 This template includes the following files:
-. RSLingo-RSL-Excel-Template-vX.Y.xlsx: the RSLingo RSL Excel template that can be customized or directly used in a project basis (please use the most recent version)
-. RSLingo-RSL-BillingSystem-vX.Y.xlsx: an Excel file with a simple (and not complete) application example of this RSL Excel template; Use the last version as a starting point for your learning and use purpose."
+* **RSLingo-RSL-Excel-Template-vX.Y.xlsx**: the RSLingo RSL Excel template that can be customized or directly used in a project basis (please use the most recent version)
+* **RSLingo-RSL-BillingSystem-vX.Y.xlsx**: an Excel file with a simple (and not complete) application example of this RSL Excel template; Use the last version as a starting point for your learning and use purpose."
 
 Feedback
 --------------------------------------------------------------------------------------
-We would appreciate your feedback, alberto.silva@tecnico.ulisboa.pt
+Your Feedback is Highly Appreciated!
+alberto.silva@tecnico.ulisboa.pt
 
 References
 --------------------------------------------------------------------------------------
@@ -30,5 +32,6 @@ References
 
 Licence
 --------------------------------------------------------------------------------------
-[8]	RSLingo-RSL-Excel-Template is released under the EUPL 1.1 licence. http://joinup.ec.europa.eu/software/page/eupl 
+RSLingo-RSL-Excel-Template is released under the EUPL 1.1 licence.
 For further details please consult the LICENCE file. 
+[8]	http://joinup.ec.europa.eu/software/page/eupl 
